@@ -3,6 +3,8 @@
 
 ![J.Rodolfo GitHub stats](https://github-readme-stats.vercel.app/api?username=JRodolfoM&show_icons=true&theme=merko)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JRodolfoM&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Tecnologias que uso no meu dia
 
 <div style="display: inline_block">
