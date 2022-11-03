@@ -1,4 +1,4 @@
-### Olá! Eu sou j. Rodolfo Mantovani ✋
+### Olá! Eu sou J. Rodolfo Mantovani ✋
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/jos%C3%A9-rodolfo-mantovani-b23758231?trk=org-employees)
 
 ![J.Rodolfo GitHub stats](https://github-readme-stats.vercel.app/api?username=JRodolfoM&show_icons=true&theme=merko&include_all_commits=true&count_private=true)
